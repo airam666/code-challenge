@@ -1,0 +1,33 @@
+.App {
+  background-color: #000000;
+  text-align: center;
+}
+
+.search {
+  width: 40%;
+}
+
+.App-header {
+  background-color: #ffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.regular {
+  background-color: #ffff;
+  min-height: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-self: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-left: 5%;
+  margin-right: 5%;
+  color: white;
+}
